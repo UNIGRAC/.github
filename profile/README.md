@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Alt Text](https://www.google.com/imgres?imgurl=http%3A%2F%2Fgeftwap.org%2Ftwap-project%2Fpartners%2Fpartner-logos%2Fgroundwater-partners%2Figrac%2Fdownload&tbnid=g0l5TlwGmAQ_BM&vet=12ahUKEwir_N-ugOyCAxXRy6QKHVzGBGcQMygDegQIARBJ..i&imgrefurl=http%3A%2F%2Fgeftwap.org%2Ftwap-project%2Fpartners%2Fpartner-logos%2Fgroundwater-partners%2Figrac%2Fview&docid=NDVXhGejiHqNaM&w=1200&h=408&q=IGRAC%20logo&ved=2ahUKEwir_N-ugOyCAxXRy6QKHVzGBGcQMygDegQIARBJ)
+![Alt Text](https://github.com/UNIGRAC/.github/blob/main/igrac_logo.png)
+
 
 **Here are some ideas to get you started:**
 
