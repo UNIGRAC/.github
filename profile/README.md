@@ -5,4 +5,9 @@ Uniting nations for sustainable groundwater solutions since 2003. As UNESCO's Gl
 ### Get Involved!
 
 Explore more about our initiatives on our website at [https://www.un-igrac.org/](https://www.un-igrac.org/). 
+Download open-access groundwater data on our platform [The GGIS](https://ggis.un-igrac.org/) 💧🌨️🌱🌍
+
+### Get In Touch!
+
+
 
