@@ -4,5 +4,5 @@ Uniting nations for sustainable groundwater solutions since 2003. As UNESCO's Gl
 
 ### Get Involved!
 
-Explore more about our initiatives on our website at [Explore our initiatives](https://www.un-igrac.org/). 
+Explore more about our initiatives on our website at [https://www.un-igrac.org/](https://www.un-igrac.org/). 
 
