@@ -8,8 +8,8 @@ Download open-access groundwater data on our platform [The GGIS](https://ggis.un
 
 ### Get In Touch!
 
-Learn more about what we're doing through [Linkedin 💼🎓](https://www.linkedin.com/company/igrac/mycompany/) and [Instagram 📸🎨 🌴](https://instagram.com/unescoigrac?igshid=MmVlMjlkMTBhMg==) !!
+Learn more about what we're doing through [Linkedin 💼🎓](https://www.linkedin.com/company/igrac/mycompany/) and [Instagram 📸🎨 🌴](https://instagram.com/unescoigrac?igshid=MmVlMjlkMTBhMg==)!
 
-Don't forget to subscribe to our [Youtube Channel 📺🚀](https://www.youtube.com/@igrac-internationalgroundw5640/videos)
+Don't forget to subscribe to our [Youtube Channel 📺🚀](https://www.youtube.com/@igrac-internationalgroundw5640/videos)! 
 
 
