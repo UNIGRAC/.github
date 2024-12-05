@@ -1,4 +1,5 @@
-![Uniting nations for sustainable groundwater solutions since 2003. As UNESCO's Global Groundwater Centre, we prioritize knowledge sharing and transboundary aquifer assessment. From Delft, Netherlands, we advocate sustainable groundwater management on a global scale. 💧🌐 #GroundwaterFocused](https://github.com/UNIGRAC/.github/blob/a4b321cd7638d5003a0359a0c5e4a20f5db69446/IGRAC_logo_FC_square.png)
+![Uniting nations for sustainable groundwater solutions since 2003. As UNESCO's Global Groundwater Centre, we prioritize knowledge sharing and transboundary aquifer assessment. From Delft, Netherlands, we advocate sustainable groundwater management on a global scale. 💧🌐 #GroundwaterFocused]<img src="https://github.com/UNIGRAC/.github/blob/a4b321cd7638d5003a0359a0c5e4a20f5db69446/IGRAC_logo_FC_square.png" alt="IGRAC Logo" width="200" />
+
 
 Uniting nations for sustainable groundwater solutions since 2003. As UNESCO's Global Groundwater Centre, we prioritize knowledge sharing and transboundary aquifer assessment. From Delft, Netherlands, we advocate sustainable groundwater management on a global scale. 💧🌐 #GroundwaterFocused
 
